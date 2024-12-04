@@ -1,6 +1,6 @@
 package org.example;
 
-public class Commit_1 {
+public class Commit_2 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
